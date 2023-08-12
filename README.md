@@ -3,7 +3,7 @@
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a> I'm Yash Porwal</h1>
 
 ## I'm a Student,Fullstack developer 
-- 🌱 I’m currently learning Bckend Development
+- 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on projects related to fullstack domain
 - 💬 Ask me about Full Stack
 - 📫 How to reach me: https://www.linkedin.com/in/yash-porwal-b32993173/
